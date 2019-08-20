@@ -34,6 +34,7 @@ schema_view = get_swagger_view(title='Pastebin API')
 urlpatterns = [
     url(r'^$', schema_view)
 ]
+
 Requirements
 Django 1.8+
 Django REST framework 3.5.1+
