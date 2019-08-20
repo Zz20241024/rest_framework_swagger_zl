@@ -1,0 +1,2 @@
+# rest_framework_swagger_zl
+通过swagger,可以通过提取接口代码中的注释来生成文档，并且可以直接在浏览器中调用，获取返回结果.
